@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnysingh3972&label=Profile%20views&color=0e75b6&style=flat" alt="sunnysingh3972" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Kotlin**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Android Development**
 
-- 💬 Ask me about **C & C++**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **buntysingh397218@gmail.com**
 

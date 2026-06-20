@@ -1,92 +1,105 @@
-# Hey there! 👋 I'm Sunny Singh
+<h1 align="center">Hi 👋, I'm Sunny Singh</h1>
 
-### 🚀 Java Backend Developer | ETL Engineer | Spring Boot Enthusiast | AI-Powered Enterprise Solutions
+<h3 align="center">
+☕ Java Backend Developer | Spring Boot Developer | Building Scalable Enterprise Applications
+</h3>
 
-💡 Passionate about designing scalable backend systems, building enterprise-grade applications, and exploring the future of AI in software development.
+<p align="center">
+Passionate about designing high-performance backend systems, developing secure REST APIs, and building enterprise-grade applications using Java and Spring technologies.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🔹 Currently working as an ETL Developer at TCS
+💻 Java Backend Developer passionate about building scalable and maintainable applications.
 
-🔹 Transitioning into Java Backend Development with a strong focus on:
+🌱 Currently deep-diving into:
 - Spring Boot
 - Microservices
+- Spring Security
+- Hibernate & JPA
 - System Design
-- RESTful APIs
-- Database Optimization
-- Cloud Technologies
+- Design Patterns
+- AI Integration with Spring AI
 
-🔹 Exploring AI-powered enterprise applications using:
-- Spring AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Automation
-
-🔹 Experienced in:
-- Talend ETL
-- Oracle SQL
-- MySQL
-- Data Integration
+🏗️ I enjoy building enterprise applications that focus on:
+- Clean Architecture
 - Performance Optimization
+- Security
+- Scalability
+- Maintainability
 
-🔹 Passionate about solving real-world business problems through clean architecture and scalable solutions.
-
----
-
-## 🛠️ Tech Arsenal
-
-☕ Java • Spring Boot • Hibernate • JPA
-
-🔐 Spring Security • JWT Authentication
-
-🗄️ MySQL • Oracle Database • SQL
-
-🔄 Talend ETL • Data Integration • API Development
-
-☁️ Cloud Fundamentals • OCI
-
-🧠 AI Integration • Spring AI • LLM Applications
-
-🔧 Git • GitHub • Maven • Postman
+🎯 My goal is to become an Enterprise Java Engineer building large-scale distributed systems.
 
 ---
 
-## 🌱 Currently Learning
+## ⚡ Tech Stack
 
-🏗️ Enterprise Application Architecture
+### Backend
+☕ Java  
+🍃 Spring Boot  
+🔐 Spring Security  
+🗄️ Hibernate & JPA  
+🌐 REST APIs  
+📦 Maven
 
-⚡ Microservices & Distributed Systems
+### Databases
+🐬 MySQL  
+🔴 Oracle SQL
 
-🤖 AI Integration with Spring Boot
+### Tools & Technologies
+Git • GitHub • Postman • IntelliJ IDEA • Docker
 
-☁️ Cloud-Native Development
+### Currently Exploring
+🚀 Microservices  
+☁️ Cloud Technologies  
+🤖 Spring AI  
+📊 System Design
 
-📈 System Design & Performance Engineering
+---
+
+## 🔥 What I'm Building
+
+📌 Enterprise-grade Spring Boot Applications
+
+📌 Secure Authentication & Authorization Systems
+
+📌 RESTful APIs following industry best practices
+
+📌 AI-powered Java Applications using Spring AI
+
+📌 Scalable Backend Services and Microservices
+
+---
+
+## 📈 Developer Mindset
+
+✔ Writing clean and maintainable code
+
+✔ Following SOLID principles and design patterns
+
+✔ Building production-ready applications
+
+✔ Continuously learning and improving
 
 ---
 
 ## 🎯 2026 Goals
 
-✅ Become a Full-Time Java Backend Engineer
+🚀 Master Spring Ecosystem
 
-✅ Master Microservices & Cloud Architecture
+🚀 Become an Expert in Microservices Architecture
 
-✅ Build AI-Powered Enterprise Applications
+🚀 Build AI-Driven Enterprise Applications
 
-✅ Contribute to Open Source Projects
+🚀 Contribute to Open Source Java Projects
 
-✅ Share Knowledge Through Technical Content
-
----
-
-## 📫 Let's Connect
-
-💼 LinkedIn: www.linkedin.com/in/sunny-singh-86516a259
-
-📧 Open to Java Backend & Spring Boot Opportunities
+🚀 Land a Java Backend Engineer Role
 
 ---
 
-> "Building scalable systems today while learning the technologies that will shape tomorrow." 🚀
+### 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
